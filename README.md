@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Leo</h1>
+<h1 align="left">Hi, I'm Leo</h1>
 <h3 align="left">Front End Developer Student</h3>
+ 👨‍💻 All of my projects are available at [https://leojonsson.netlify.app/](https://leojonsson.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://leojonsson.netlify.app/](https://leojonsson.netlify.app/)
-
-- 📫 email address: **jonssonleonardo@gmail.com**
+ 📫 email address: **jonssonleonardo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
