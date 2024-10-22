@@ -1,6 +1,5 @@
 <h1 align="left">Hi, I'm Leo</h1>
 <h3 align="left">Front End Developer Student</h3>
- 👨‍💻 All of my projects are available at [https://leojonsson.netlify.app/](https://leojonsson.netlify.app/)
 
  📫 email address: **jonssonleonardo@gmail.com**
 
